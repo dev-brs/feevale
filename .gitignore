@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Local files
+# folder .vscode e output
+.vscode/
+out/
+output/
